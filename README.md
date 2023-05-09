@@ -1,2 +1,2 @@
 # Hangman-Game
-The hangman game writed with python.
+The hangman game writed with python. 
